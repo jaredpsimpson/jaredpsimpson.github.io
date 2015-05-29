@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Jared P. Simpson, and I'm a web application developer from Fort Worth, TX. I am currently the President of the Fort Worth .NET User Group (<a href="http://fwdnug.com">FWDNUG</a>), and focus mainly on things related to Microsoft's .NET technologies. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I also have an interest in IoT, cloud computing, hardware, the developer communities, and wakeskating among many other things. This is where I will be sharing my thoughts on those matters.
