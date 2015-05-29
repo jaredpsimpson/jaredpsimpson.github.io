@@ -1,7 +1,7 @@
 # Site settings
 title: jaredpsimpson.com
 email: jaredpsimpson@outlook.com
-description: This is the site for Jared P. Simpson.  I will be sharing thoughts about web development, design, hardware, IoT, and community involvement.
+description: This is the site for Jared P. Simpson.  I will be sharing thoughts about web application development, cloud computing, design, hardware, IoT, and community involvement.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jaredpsimpson.com" # the base hostname & protocol for your site
 
@@ -12,10 +12,14 @@ linkedin_username: jaredpsimpson
 instagram_username: jaredpsimpson
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 
-#Text Highlighter
+# Text Highlighter
 highlighter: pygments
 
 #Encoding
 encoding: utf-8
+
+paginate: 20
+paginate_path: "page/:num"
+permalinks: :title/
